@@ -51,4 +51,4 @@ This project presents an interactive Sales & Revenue Analysis Dashboard develope
 
 ## Author
 
-**Shalu Shekar**
+**Shalini K C**
